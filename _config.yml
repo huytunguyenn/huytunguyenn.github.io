@@ -67,3 +67,8 @@ defaults:
       layout: "post"
       
 permalink: /:title 
+
+
+url:
+
+baseurl: "/huytunguyenn.github.io"
