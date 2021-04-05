@@ -11,6 +11,7 @@ categories: software-design tàolao
 
 ![Hình bị lỗi huhu :<][img]
 
+Viết xong mới nhận ra mất thêm 3 chục phút để ngựa ngựa viết cái markdown này nữa trời ơi ༽◺_◿༼ ༽◺_◿༼ ༽◺_◿༼
 
 [gone]: https://www.youtube.com/watch?v=K9_VFxzCuQ0
 [img]: assets/images/2021-04-05/usecasemodel.png
