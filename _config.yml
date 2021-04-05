@@ -1,7 +1,7 @@
-title: Hộc nhỏ của Tú
+title: Shit Markdowns
 author:
-  name: HUYTU
-  email: your-email@domain.com
+  name: TUS
+  email: huytunguyen0408@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Viết blog và tìm kiếm niềm vui <3
 
@@ -14,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: huytunguyen_
+    #twitter: huytunguyen_
     github:  huytunguyenn
     # devto: jekyll
     # dribbble: jekyll
