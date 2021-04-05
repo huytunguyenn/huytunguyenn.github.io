@@ -1,5 +1,5 @@
 ---
-title: Use case cho hệ thống quản lý cửa hàng aa
+title: Use case cho hệ thống quản lý cửa hàng 
 categories: software-design tàolao
 ---
 
